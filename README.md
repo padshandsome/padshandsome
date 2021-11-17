@@ -5,9 +5,9 @@
 - 📫 Please contact me with mliu89@jh.edu
 
 My current Projects:
-1. [University Admission Prediction]()
+1. [University Admission Prediction](https://github.com/padshandsome/university_admission_predict_app)
 2. [Birds Classification]()
-2. [Personal Blog]()
+2. [Personal Blog](https://padshandsome.github.io/MengmengLiu/)
 
 
 <!---
